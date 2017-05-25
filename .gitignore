@@ -1,0 +1,13 @@
+# vim temporary files.
+*.sw[o-p]
+
+# python bytecoded files.
+*.pyc
+
+# virtualenvs
+env*/
+
+# Ignore build directory which is generated whan the package is installed.
+build
+dist
+MANIFEST
